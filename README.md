@@ -97,5 +97,5 @@ Scikit-learn Isolation Forest Documentation
 
 Here’s how the credit card fraud detection tool works:
 
-![Demo](demo.gif)
+![Demo](demo.gif)https://github.com/user-attachments/assets/e01f9a3d-9832-4075-bc27-884afc770974
 
