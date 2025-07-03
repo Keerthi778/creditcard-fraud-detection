@@ -93,4 +93,9 @@ No label (Class) was used in training — this is unsupervised detection.
 Kaggle Credit Card Fraud Dataset
 
 Scikit-learn Isolation Forest Documentation
+## 🎥 Demo
+
+Here’s how the credit card fraud detection tool works:
+
+![Demo](demo.gif)
 
